@@ -74,13 +74,10 @@ pickle
 
 Install with:
 
-bash
-Copy
-Edit
-pip install streamlit pandas numpy matplotlib seaborn
+
 🙋‍♂️ Author
 Tarun Desetti
 🐳 Feel free to connect or suggest improvements!
 
 📃 License
-This project is open-source and available under the MIT License.
+This project is inspired by an article of MIT. All rights reserved
